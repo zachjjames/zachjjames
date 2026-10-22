@@ -1,12 +1,21 @@
-# Hi, I'm Zach 👋
+Hi, I'm Zach 👋
 
-CS student at [UMBC] · interested in [systems / web / etc.]
+Information Systems student at UMBC (graduating December 2026, Computer Science minor), focused on IT support, networking, and web development.
 
-## What I'm working on
-- - **QuietFox**: calm, anonymous one-on-one voice calls for adults who can't sleep. [Live demo](https://zachjjames.github.io/quietfox-demo/) · [Demo repo](https://github.com/zachjjames/quietfox-demo) · Full source is private.
+I like figuring out why things break and how to fix them. I've spent five years at The Home Depot solving customer problems and leading store projects, and I'm now building software and network-heavy apps on my own.
 
-## Skills
-[C] · [Python] · [JavaScript] · [Git]
+🔨 What I'm building
 
-## Contact
-[LinkedIn link] · [email]
+QuietFox: an anonymous, voice-only peer-support app that pairs adults for calm one-on-one conversations. It uses WebRTC for peer-to-peer audio, with a PHP and MariaDB back end.
+
+🧰 Skills
+
+Languages: JavaScript · PHP · HTML/CSS · SQL (MySQL, MariaDB) · Java · C · C++ · Assembly Networking & IT: TCP/IP · LAN management (Microsoft) · NAT traversal (STUN/TURN) · hardware and software troubleshooting Tools: Git · GitHub · Apache · REST APIs · WebRTC
+
+🎯 Looking for
+
+IT support, help desk, and junior systems roles in the Baltimore area or remote.
+
+📫 Contact
+
+LinkedIn · zjames3@umbc.edu
