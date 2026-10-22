@@ -4,7 +4,7 @@ Information Systems student at UMBC (graduating December 2026, Computer Science 
 
 I like figuring out why things break and how to fix them. I've spent five years at The Home Depot solving customer problems and leading store projects, and I'm now building software and network-heavy apps on my own.
 
-🔨 What I'm building
+##🔨 What I'm building
 
 QuietFox: an anonymous, voice-only peer-support app that pairs adults for calm one-on-one conversations. It uses WebRTC for peer-to-peer audio, with a PHP and MariaDB back end.
 
