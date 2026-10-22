@@ -13,10 +13,10 @@ QuietFox: an anonymous, voice-only peer-support app that pairs adults for calm o
 - **Languages:** JavaScript · PHP · HTML/CSS · SQL (MySQL, MariaDB) · Java · C · C++ · Assembly
 - **Networking & IT:** TCP/IP · LAN management (Microsoft) · NAT traversal (STUN/TURN) · hardware and software troubleshooting
 - **Tools:** Git · GitHub · Apache · REST APIs · WebRTC
-🎯 Looking for
+
+## 🎯 Looking for
 
 IT support, help desk, and junior systems roles in the Baltimore area or remote.
-
 📫 Contact
 
 LinkedIn · zjames3@umbc.edu
